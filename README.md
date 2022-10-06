@@ -15,8 +15,6 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/patroneshermosos-oficial/official-website?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/patroneshermosos-oficial/official-website?color=56BEB8">
-
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/patroneshermosos-oficial/official-website?color=56BEB8" /> -->
 
   <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/patroneshermosos-oficial/official-website?color=56BEB8" /> -->
@@ -37,8 +35,6 @@
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/patroneshermosos-oficial" target="_blank">Author</a>
 </p>
 
