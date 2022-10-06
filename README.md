@@ -70,7 +70,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 
 
-Made with :heart: by <a href="https://github.com/patroneshermosos-oficial" target="_blank">Patrones Hermosos /a>
+Made with :heart: by <a href="https://github.com/patroneshermosos-oficial" target="_blank"> Patrones Hermosos </a>
 
 &#xa0;
 
