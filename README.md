@@ -68,30 +68,9 @@ The following tools were used in this project:
 
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-## :checkered_flag: Starting ##
-
-```bash
-# Clone this project
-$ git clone https://github.com/patroneshermosos-oficial/official-website
-
-# Access
-$ cd official-website
-
-# Install dependencies
-$ yarn
-
-# Run the project
-$ yarn start
-
-# The server will initialize in the <http://localhost:3000>
-```
-
-## :memo: License ##
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/patroneshermosos-oficial" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/patroneshermosos-oficial" target="_blank">Patrones Hermosos/a>
 
 &#xa0;
 
