@@ -1,51 +1,98 @@
-## Thank you for purchasing our item ##
+<div align="center" id="top"> 
+  <img src="./.github/app.gif" alt="Official Website" />
 
-Once you have downloaded the package, after template extracting, you will see the following files & directory structure:
+  &#xa0;
 
+  <!-- <a href="https://officialwebsite.netlify.app">Demo</a> -->
+</div>
+
+<h1 align="center">Official Website</h1>
+
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/patroneshermosos-oficial/official-website?color=56BEB8">
+
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/patroneshermosos-oficial/official-website?color=56BEB8">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/patroneshermosos-oficial/official-website?color=56BEB8">
+
+  <img alt="License" src="https://img.shields.io/github/license/patroneshermosos-oficial/official-website?color=56BEB8">
+
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/patroneshermosos-oficial/official-website?color=56BEB8" /> -->
+
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/patroneshermosos-oficial/official-website?color=56BEB8" /> -->
+
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/patroneshermosos-oficial/official-website?color=56BEB8" /> -->
+</p>
+
+<!-- Status -->
+
+<!-- <h4 align="center"> 
+	🚧  Official Website 🚀 Under construction...  🚧
+</h4> 
+
+<hr> -->
+
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/patroneshermosos-oficial" target="_blank">Author</a>
+</p>
+
+<br>
+
+## :dart: About ##
+
+Describe your project
+
+## :sparkles: Features ##
+
+:heavy_check_mark: Feature 1;\
+:heavy_check_mark: Feature 2;\
+:heavy_check_mark: Feature 3;
+
+## :rocket: Technologies ##
+
+The following tools were used in this project:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## :white_check_mark: Requirements ##
+
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+
+## :checkered_flag: Starting ##
+
+```bash
+# Clone this project
+$ git clone https://github.com/patroneshermosos-oficial/official-website
+
+# Access
+$ cd official-website
+
+# Install dependencies
+$ yarn
+
+# Run the project
+$ yarn start
+
+# The server will initialize in the <http://localhost:3000>
 ```
-template/
-  ├──  assets
-  │   ├──  css/
-  │   ├──  images/
-  │   ├──  js/
-  │   ├──  scss/
-  │   └──  vendor/
-  ├──  docs
-  │   ├──  index.html 
-  └── All template HTML files
-gulpfile.js
-package.JSON
-package-lock.JSON
-README.MD
-```
 
-#### Templates and Assets
+## :memo: License ##
 
-The `template` directory contains all the template files and static resources. To view, just open `.html` in your favorite browser!
-
-#### Gulpfile.js
-
-We've included an optional Gulp file to help you get started with theme customization. You’ll need to install Node.js and Gulp before using our included gulpfile.js.
-
-To install Node visit [https://nodejs.org/download](https://nodejs.org/download/).
-
-To install gulp, run the following command:
-
-```
-$ npm install gulp -g
-```
-
-When you’re done, install the rest of the theme's dependencies:
-
-```
-$ npm install
-```
-
-From here, simply run `gulp` from your terminal and you're good to go!
-
-+ `gulp` - recompile your theme assets.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-#### Support
+Made with :heart: by <a href="https://github.com/patroneshermosos-oficial" target="_blank">{{YOUR_NAME}}</a>
 
-If you stuck with any issues or need help/have queries, Please read our documentation included in the package. If you are still not finding any solution, Kindly head over to our [support forum](https://support.webestica.com) and we will be getting in touch with you ASAP.
+&#xa0;
+
+<a href="#top">Back to top</a>
