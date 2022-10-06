@@ -16,101 +16,61 @@
 				
 				<!-- Slider START -->
 				<div class="tiny-slider arrow-round arrow-creative arrow-blur arrow-hover mt-2 mt-sm-5">
-					<div class="tiny-slider-inner" data-autoplay="true" data-arrow="true" data-dots="false" data-items="6" data-items-lg="3" data-items-md="2">
+					<div class="tiny-slider-inner" data-autoplay="true" data-arrow="true" data-dots="false" data-items="5" data-items-lg="4" data-items-md="3">
 
 						<!-- Avatar item -->
 						<div class="text-center">
 							<!-- Avatar -->
-							<div class="avatar avatar-xxl mb-3">
+							<div class="avatar avatar-xxxl mb-3">
 								<img class="avatar-img rounded-circle" src="assets/images/avatar/01.jpg" alt="avatar">
 							</div>
 							<!-- Info -->
-							<h6 class="mb-0"><a href="#">Carolyn Ortiz</a></h6>
-							<p class="mb-0 small">Designer</p>
-							<!-- Rating -->
-							<ul class="list-inline mb-0">
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-warning"></i></li>
-							</ul>
+							<h5 class="mb-0"><a href="#">Abel Sanchez</a></h5>
+							<p class="mb-0 small">Founder, Academic Production</p>
 						</div>
 
 						<!-- Avatar item -->
 						<div class="text-center">
 							<!-- Avatar -->
-							<div class="avatar avatar-xxl mb-3">
+							<div class="avatar avatar-xxxl mb-3">
 								<img class="avatar-img rounded-circle" src="assets/images/avatar/02.jpg" alt="avatar">
 							</div>
 							<!-- Info -->
-							<h6 class="mb-0"><a href="#">Dennis Barrett</a></h6>
-							<p class="mb-0 small">IT professor</p>
-							<!-- Rating -->
-							<ul class="list-inline mb-0">
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-warning"></i></li>
-							</ul>
+							<h5 class="mb-0"><a href="#">Kasturi Shah</a></h5>
+							<p class="mb-0 small">Director, Academic Delivery</p>
 						</div>
 
 						<!-- Avatar item -->
 						<div class="text-center">
 							<!-- Avatar -->
-							<div class="avatar avatar-xxl mb-3">
+							<div class="avatar avatar-xxxl mb-3">
 								<img class="avatar-img rounded-circle" src="assets/images/avatar/09.jpg" alt="avatar">
 							</div>
 							<!-- Info -->
-							<h6 class="mb-0"><a href="#">Frances Guerrero</a></h6>
-							<p class="mb-0 small">Developer</p>
-							<!-- Rating -->
-							<ul class="list-inline mb-0">
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-							</ul>
+							<h5 class="mb-0"><a href="#">Carolina Barreiro</a></h5>
+							<p class="mb-0 small">Director, Estrategy and Comms</p>
 						</div>
 
 						<!-- Avatar item -->
 						<div class="text-center">
 							<!-- Avatar -->
-							<div class="avatar avatar-xxl mb-3">
+							<div class="avatar avatar-xxxl mb-3">
 								<img class="avatar-img rounded-circle" src="assets/images/avatar/04.jpg" alt="avatar">
 							</div>
 							<!-- Info -->
-							<h6 class="mb-0"><a href="#">Larry Lawson</a></h6>
-							<p class="mb-0 small">Designer</p>
-							<!-- Rating -->
-							<ul class="list-inline mb-0">
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-warning"></i></li>
-							</ul>
+							<h5 class="mb-0"><a href="#">Mariana Gutierrez</a></h5>
+							<p class="mb-0 small">Academic Dev and Instructor</p>
 						</div>
 
 						<!-- Avatar item -->
 						<div class="text-center">
 							<!-- Avatar -->
-							<div class="avatar avatar-xxl mb-3">
+							<div class="avatar avatar-xxxl mb-3">
 								<img class="avatar-img rounded-circle" src="assets/images/avatar/10.jpg" alt="avatar">
 							</div>
 							<!-- Info -->
-							<h6 class="mb-0"><a href="#">Louis Crawford</a></h6>
-							<p class="mb-0 small">Medical Professor</p>
-							<!-- Rating -->
-							<ul class="list-inline mb-0">
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star text-warning"></i></li>
-								<li class="list-inline-item me-0 small"><i class="fas fa-star-half-alt text-warning"></i></li>
-							</ul>
+							<h5 class="mb-0"><a href="#">Daniela Ahumana</a></h5>
+							<p class="mb-0 small">Academic Dev and Instructor</p>
 						</div>
 					</div>
 				</div>	
