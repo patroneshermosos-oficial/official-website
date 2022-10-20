@@ -127,67 +127,9 @@
             >
               <!-- copyright text -->
               <div class="text-primary-hover">
-                Copyrights <a href="#" class="text-body">©2021 Eduport</a>. All
-                rights reserved.
+                Copyrights <a href="#" class="text-body">©2018 Patrones Hermosos</a>. Derechos reservados.
               </div>
               <!-- copyright links-->
-              <div class="mt-3 mt-md-0">
-                <ul class="list-inline mb-0">
-                  <li class="list-inline-item">
-                    <!-- Language selector -->
-                    <div class="dropup mt-0 text-center text-sm-end">
-                      <a
-                        class="dropdown-toggle nav-link"
-                        href="#"
-                        role="button"
-                        id="languageSwitcher"
-                        data-bs-toggle="dropdown"
-                        aria-expanded="false"
-                      >
-                        <i class="fas fa-globe me-2"></i>Language
-                      </a>
-                      <ul
-                        class="dropdown-menu min-w-auto"
-                        aria-labelledby="languageSwitcher"
-                      >
-                        <li>
-                          <a class="dropdown-item me-4" href="#"
-                            ><img
-                              class="fa-fw me-2"
-                              src="assets/images/flags/uk.svg"
-                              alt=""
-                            />English</a
-                          >
-                        </li>
-                        <li>
-                          <a class="dropdown-item me-4" href="#"
-                            ><img
-                              class="fa-fw me-2"
-                              src="assets/images/flags/gr.svg"
-                              alt=""
-                            />German
-                          </a>
-                        </li>
-                        <li>
-                          <a class="dropdown-item me-4" href="#"
-                            ><img
-                              class="fa-fw me-2"
-                              src="assets/images/flags/sp.svg"
-                              alt=""
-                            />French</a
-                          >
-                        </li>
-                      </ul>
-                    </div>
-                  </li>
-                  <li class="list-inline-item">
-                    <a class="nav-link" href="#">Terms of use</a>
-                  </li>
-                  <li class="list-inline-item">
-                    <a class="nav-link pe-0" href="#">Privacy policy</a>
-                  </li>
-                </ul>
-              </div>
             </div>
           </div>
         </div>
