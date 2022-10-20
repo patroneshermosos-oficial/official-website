@@ -313,9 +313,9 @@
               </figure>
               <!-- Title -->
               <h1 class="mb-0 display-6">
-                Limitless learning at your
+                Educación STEM por mujeres para
                 <span class="position-relative"
-                  >fingertips
+                  >mujeres
                   <!-- SVG START -->
                   <span
                     class="position-absolute top-50 start-50 translate-middle ms-3 z-index-n1"
@@ -364,7 +364,7 @@
               >
                 <!-- Button -->
                 <a href="#" class="btn btn-lg btn-danger-soft me-2 mb-4 mb-sm-0"
-                  >Get Started</a
+                  >Inscríbete</a
                 >
                 <!-- Video button -->
                 <a
@@ -379,7 +379,7 @@
                     <i class="fas fa-play"></i>
                   </div>
                   <div class="align-middle d-inline-block">
-                    <h6 class="mb-0 fw-normal">Watch video</h6>
+                    <h6 class="mb-0 fw-normal">Cursos públicos</h6>
                   </div>
                 </a>
               </div>
