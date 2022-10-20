@@ -339,8 +339,9 @@
 
               <!-- Content -->
               <p class="my-4 lead">
-                Online learning and teaching marketplace with 5K+ courses & 10M
-                students. Taught by experts to help you acquire new skills.
+              Iniciativa creada en 2018 en el MIT: Instituto Tecnológico de Massachussets. 
+              Buscamos aumentar la representación de mujeres latinas en áreas 
+              STEM proveyendo educación accesible. 
               </p>
 
               <!-- Info -->
@@ -348,14 +349,13 @@
                 class="list-inline position-relative justify-content-center justify-content-lg-start mb-4"
               >
                 <li class="list-inline-item me-2">
-                  <i class="bi bi-patch-check-fill h6 me-1"></i>Learn with
-                  experts
+                  <i class="bi bi-patch-check-fill h6 me-1"></i>Educación de calidad
                 </li>
                 <li class="list-inline-item me-2">
-                  <i class="bi bi-patch-check-fill h6 me-1"></i>Get certificate
+                  <i class="bi bi-patch-check-fill h6 me-1"></i>Valor curricular
                 </li>
                 <li class="list-inline-item">
-                  <i class="bi bi-patch-check-fill h6 me-1"></i>Get membership
+                  <i class="bi bi-patch-check-fill h6 me-1"></i>Comunidad
                 </li>
               </ul>
 
@@ -370,7 +370,7 @@
                 <a
                   data-glightbox
                   data-gallery="office-tour"
-                  href="https://www.youtube.com/embed/tXHviS-4ygo"
+                  href="https://www.youtube.com/watch?v=ctd6Srk7Yac&ab_channel=designpatterns"
                   class="ms-0 ms-sm-4 d-block"
                 >
                   <div
@@ -379,7 +379,7 @@
                     <i class="fas fa-play"></i>
                   </div>
                   <div class="align-middle d-inline-block">
-                    <h6 class="mb-0 fw-normal">Cursos públicos</h6>
+                    <h6 class="mb-0 fw-normal">Bootcamp Overview</h6>
                   </div>
                 </a>
               </div>
