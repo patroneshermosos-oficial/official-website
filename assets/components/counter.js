@@ -20,13 +20,13 @@
                       class="purecounter mb-0 fw-bold"
                       data-purecounter-start="0"
                       data-purecounter-end="10"
-                      data-purecounter-delay="200"
+                      data-purecounter-delay="100"
                     >
                       0
                     </h5>
                     <span class="mb-0 h5">K</span>
                   </div>
-                  <p class="mb-0">Online Courses</p>
+                  <p class="mb-0">Cursos</p>
                 </div>
               </div>
             </div>
@@ -43,14 +43,14 @@
                     <h5
                       class="purecounter mb-0 fw-bold"
                       data-purecounter-start="0"
-                      data-purecounter-end="200"
+                      data-purecounter-end="8"
                       data-purecounter-delay="200"
                     >
                       0
                     </h5>
                     <span class="mb-0 h5">+</span>
                   </div>
-                  <p class="mb-0">Expert Tutors</p>
+                  <p class="mb-0">Instructoras</p>
                 </div>
               </div>
             </div>
@@ -67,14 +67,14 @@
                     <h5
                       class="purecounter mb-0 fw-bold"
                       data-purecounter-start="0"
-                      data-purecounter-end="60"
+                      data-purecounter-end="4"
                       data-purecounter-delay="200"
                     >
                       0
                     </h5>
                     <span class="mb-0 h5">K+</span>
                   </div>
-                  <p class="mb-0">Online Students</p>
+                  <p class="mb-0">Estudiantes</p>
                 </div>
               </div>
             </div>
@@ -92,13 +92,13 @@
                       class="purecounter mb-0 fw-bold"
                       data-purecounter-start="0"
                       data-purecounter-end="6"
-                      data-purecounter-delay="300"
+                      data-purecounter-delay="200"
                     >
                       0
                     </h5>
-                    <span class="mb-0 h5">K+</span>
+                    <span class="mb-0 h5">+</span>
                   </div>
-                  <p class="mb-0">Certified Courses</p>
+                  <p class="mb-0">Universidades Partners</p>
                 </div>
               </div>
             </div>
